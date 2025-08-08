@@ -6,7 +6,7 @@ This project explores the relationship between **digital transformation** and **
 
 ## 📁 Project Overview
 
-- 🎓 **Academic Project** for Bachelor's in Computing  
+- 🎓 **Academic Project** for Bachelor's in Data Science 
 - 🏫 National College of Ireland  
 - 🧑‍💻 Student: Vanshika Sharma  
 - 📅 Year: 2024-2025  
